@@ -7,4 +7,4 @@ Portal ini juga dilengkapi dengan *Knowledge Management System* (KMS) pada sisi 
 Portal layanan BPS Provinsi Sulawesi Tenggara dapat diakses melalui media web pada tautan: (https://layanan.bpsprovsultra.page/). 
 
 ## **Limitasi**
-Portal ini bersifat open source. Siapapun dapat menduplikasi portal ini namun dengan seizin BPS Provinsi Sulawesi Tenggara.
+Portal ini bersifat open source. Siapapun dapat menduplikasi portal ini namun dengan seizin BPS Kota Baubau.
